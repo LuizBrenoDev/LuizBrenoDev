@@ -1,10 +1,9 @@
 ## Olá!! Seja bem vindo ao meu perfil no github!!
-<p>
-  Eu sou um estudante da linguagem de programação Java e trabalho para me tornar um profissional em breve.
-</p>
+Eu sou um estudante da linguagem de programação Java e trabalho para me tornar um profissional em breve.
 ## Objetivos: 
-* Me tornar um profissional backend
+* Me tornar um programador backend
 * Conhecer mais linguagens de programação
+
 <!--
 **LuizBrenoDev/LuizBrenoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

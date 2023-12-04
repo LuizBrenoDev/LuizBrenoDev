@@ -8,8 +8,8 @@ Me interesso por áreas como back-end, dados, machine learning, sistemas bioinsp
 
 ### Tecnologias dominadas 💻
 * Java e Spring Boot ☕
-* SQL (Modelagem e recuperação de dados) 🐬
-* Python - Base da linguagem (Estruturas de dados, funções, etc.), Matplotlib e pandas 🐍
+* Bancos de dados Relacionais, Linguagem SQL e esquema ER 🐬
+* Python básico 🐍
 * Git e Github :octocat:
 
 ### Objetivos:

@@ -20,6 +20,8 @@ Me interesso por áreas como back-end, dados, machine learning, sistemas bioinsp
 
 [Link do meu perfil público na DIO](https://www.dio.me/users/subgamer2022)
 
+[Meu LinkedIn](https://www.linkedin.com/in/luizbreno/)
+
 <!--
 **LuizBrenoDev/LuizBrenoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@
 
 Eu sou um estudante de tecnologias server-side, buscando evoluir e me tornar um profissional em breve.
 --- 
-Me interesso por áreas como back-end, dados, machine learning, sistemas bioinspirados, estatística e cibersegurança. 
+Me interesso por áreas como desenvolvimento backend e dados. 
 **Gosto de criar aplicações interessantes e úteis para os dias atuais,** além de acreditar no potencial do investimento em tecnologia e da pesquisa científica em mudar o mundo 🌎.
 
 ### Tecnologias dominadas 💻

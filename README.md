@@ -16,8 +16,6 @@ Me interesso por áreas como desenvolvimento backend e dados.
 * Me tornar um profissional em breve 😃
 
 ### Links úteis:
-[Link do meu portfólio online no Notion](https://portfolio-online-luizdev.notion.site/API-Loja-Online-3dd5c858d79c4244b690b9b77bb1beaf?pvs=4)
-
 [Link do meu perfil público na DIO](https://www.dio.me/users/subgamer2022)
 
 [Meu LinkedIn](https://www.linkedin.com/in/luizbreno/)
